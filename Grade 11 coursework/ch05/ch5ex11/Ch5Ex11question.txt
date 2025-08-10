@@ -1,0 +1,3 @@
+Create a QuadraticEquation application that gives the solution to any quadratic equation. The applica
+tion should prompt the user for values for a, b, and c (ax2 + bx + c = 0) and then display the roots, if 
+any. 

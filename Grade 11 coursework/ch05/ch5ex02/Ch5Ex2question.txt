@@ -1,0 +1,4 @@
+A delivery service does not accept packages heavier than 27 kilograms or larger than 0.1 cubic meters 
+(100,000 cubic centimeters). Create a PackageCheck application that prompts the user for the weight of 
+a package and its dimensions (length, width, and height), and then displays an appropriate message 
+if the package does not meet the requirements. 

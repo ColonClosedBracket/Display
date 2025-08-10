@@ -1,0 +1,2 @@
+Create a DigitsDisplay application that prompts the user for a non-negative integer and then displays 
+each digit on a separate line.

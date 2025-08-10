@@ -1,0 +1,4 @@
+A fast food restaurant charges $1.69 for burgers, $1.09 for fries, and $0.99 for sodas.
+
+Modify Order to prompt the employee for the amount tendered and then display the 
+change due.

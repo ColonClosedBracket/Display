@@ -1,0 +1,3 @@
+Create a Change application that prompts the user for an amount less than $1.00 and then displays 
+the minimum number of coins necessary to make the change. The change can be made up of quarters, 
+dimes, nickels, and pennies.

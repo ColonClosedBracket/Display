@@ -1,0 +1,4 @@
+A fast food restaurant charges $1.69 for burgers, $1.09 for fries, and $0.99 for sodas.
+
+Create an Order application that prompts the employee for the number of burgers, fries, 
+and sodas and then displays the total, the tax (6.5%), and the final cost

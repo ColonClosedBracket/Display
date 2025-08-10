@@ -1,0 +1,6 @@
+The cost of making a pizza at a local shop is as follows:
+ • Labor cost is $0.75 per pizza, regardless of size
+ • Rent cost is $1.00 per pizza, regardless of size
+ • Materials is $0.05*diameter*diameter (diameter is measured in inches)
+Create a PizzaCost application that prompts the user for the size of a pizza and then displays the cost 
+of making the pizza. 

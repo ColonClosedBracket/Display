@@ -1,0 +1,2 @@
+Create a DigitsSum application that prompts the user for a non-negative integer and then displays the 
+sum of the digits.

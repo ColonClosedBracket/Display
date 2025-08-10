@@ -1,0 +1,3 @@
+Create a Monogram application that prompts the user for his or her first name, middle name, and last 
+name and then displays a monogram with the first and middle initials in lowercase and the last initial 
+in uppercase.

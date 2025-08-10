@@ -1,0 +1,5 @@
+Create an AddCoins application that prompts the user for the number of pennies, nickels,  dimes, 
+and quarters, and then displays their total dollar amount. The AddCoins application should include 
+a getDollarAmount() method that has four int parameters corresponding to the number of pennies, 
+nickels, dimes, and quarters, and returns a String that corresponds to the dollar value of the coins. 
+Note that the String returned should include the currency sign ($).

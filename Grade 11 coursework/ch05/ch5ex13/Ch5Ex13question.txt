@@ -1,0 +1,5 @@
+Create a CarPayment application that calculates a monthly car payment after prompting the user for 
+the principal owing (P), the interest rate (r) and the number of monthly payments (m). The monthly 
+car payment is calculated using the formula:
+	
+		(P * (r / 12)) / (1 - (1 + r / 12) ^ -m)

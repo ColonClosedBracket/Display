@@ -1,0 +1,3 @@
+Create a MathTutor application that displays math problems by randomly generating two numbers, 1 
+through 10 and an operator (*, +, –, /), and then prompts the user for an answer. The application should 
+check the answer, display a message, and the correct answer, if necessary. 

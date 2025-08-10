@@ -1,0 +1,2 @@
+Create a RandomStats application that generates 500 random numbers between 0 and 9 and then dis
+plays the number of occurrences of each number.

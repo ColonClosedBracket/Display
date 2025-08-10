@@ -1,0 +1,4 @@
+Create a GeneratedNums application that generates the number to store in an array element by sum
+ming its index and the individual digits of the index. For example, the element with index 17 should 
+store 25 (17 + 1 + 7 = 25) and the element with index 2 should store 4 (2 + 0 + 2 = 4). GeneratedNums 
+should use an array with 101 elements and then display the value at each element. 

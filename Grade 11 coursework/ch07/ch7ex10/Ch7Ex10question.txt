@@ -1,0 +1,3 @@
+The GuessingGame application modified in Chapter 6 Exercise 8 should include a separate method for 
+displaying a hint to the user. Modify the algorithm to include a call to a method named giveHint(), which displays 
+a hint, but does not return a value.

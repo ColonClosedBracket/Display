@@ -1,0 +1,10 @@
+The GuessingGame is a number guessing game played between the computer and one player. The 
+GuessingGame algorithm follows:
+ 1. Determine a secret number between 1 and 20.
+ 2. Prompt the player for a number between 1 and 20.
+ 3. Compare the player’s number to the secret number.
+ 4. Display the secret number and the player’s number.
+ 5. If the player’s number matches the secret number, then display a “You won!” message. 
+Otherwise display a “Better luck next time.” message
+
+Create the GuessingGame application.

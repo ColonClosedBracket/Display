@@ -1,0 +1,2 @@
+Create a RemoveString application that prompts the user for a sentence and a string. The application 
+should then remove every occurrence of the string from the sentence.

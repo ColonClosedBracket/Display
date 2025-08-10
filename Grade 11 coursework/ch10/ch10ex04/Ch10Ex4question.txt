@@ -1,0 +1,9 @@
+A program that analyzes a set of numbers can be very useful. Create an Analysis application that 
+prompts the user for numbers in the range 1 through 50, terminated by a sentinel, and then performs 
+the following analysis on the numbers:
+ • Determine the average number
+ • Determine the maximum number
+ • Determine the range (maximum – minimum)
+ • Determine the median (the number that occurs the most often)
+ • Displays a bar graph called a histogram that shows the numbers in each five-unit 
+range (1–5, 6–10, 11-15, etc.). 

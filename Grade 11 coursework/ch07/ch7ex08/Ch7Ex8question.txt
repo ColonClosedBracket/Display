@@ -1,0 +1,12 @@
+In the Hi-Lo game, the player begins with a score of 1000. The player is prompted for the 
+number of points to risk and a second prompt asks the player to choose either High or 
+Low. The player’s choice of either High or Low is compared to random number between 
+1 and 13, inclusive. If the number is between 1 and 6 inclusive, then it is considered 
+“low”. A number between 8 and 13 inclusive is “high”. The number 7 is neither high 
+nor low, and the player loses the points at risk. If the player had guessed correctly, 
+the points at risk are doubled and added to the total points. For a wrong choice, the 
+player loses the points at risk. Create a HiLo application based on this specification. 
+
+Modify the application to allow the player to continue until there are 0 points left. At 
+the end of the game, display the number of guesses the user took before running out 
+of points.

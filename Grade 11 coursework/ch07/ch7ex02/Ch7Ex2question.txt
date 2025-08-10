@@ -1,0 +1,11 @@
+The following formulas can be used to convert English units of measurements to metric units:
+ 
+	inches * 2.54 = centimeters
+	feet * 30 = centimeters
+	yards * 0.91 = meters
+	miles * 1.6 = kilometers
+
+Create a MetricConversion application that displays a menu of conversion choices and then prompts 
+the user to choose a conversion. Conversion choices should include inches to centimeters, feet to cen
+timeters, yards to meters, miles to kilometers, and vice versa. The application should include separate 
+methods for doing each of the conversions. 

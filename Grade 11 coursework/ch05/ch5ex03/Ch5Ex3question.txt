@@ -1,0 +1,8 @@
+A wholesale egg company bases their prices on the number of eggs purchased:
+
+0 up to but not including 4 dozen   $0.50 per dozen
+4 up to but not including 6 dozen   $0.45 per dozen
+6 up to but not including 11 dozen  $0.40 per dozen
+11 or more dozen					$0.35 per dozen
+
+Extra eggs are priced at 1/12 the per dozen price.

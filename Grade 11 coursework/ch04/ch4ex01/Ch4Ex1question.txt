@@ -1,0 +1,3 @@
+The height of an object at any given time dropped from a starting height of 100 meters is given by the 
+equation h=100–4.9*t2 where t is the time in seconds. Create an ObjectHeight application that prompts 
+the user for a time less than 4.5 seconds and then displays the height of the object at that time.

@@ -1,0 +1,12 @@
+The Fundamental Theorem of Arithmetic states that every positive integer is the product of a set of 
+prime numbers. This set is called the prime factors. For example, the prime factors for 140 are 2, 2, 5, 
+and 7 (2*2*5*7 = 140). Create a PrimeFactors application that prompts the user for a positive integer 
+and then displays that integer’s prime factors. Use the following pseudocode when implementing the 
+PrimeFactors code:
+
+Initialize a counter to 2
+	while the counter is less than or equal to the number
+		if the counter divides the number evenly
+			display the counter
+			divide the number by the counter to get a new number
+		else increment counter by 1

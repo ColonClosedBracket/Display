@@ -1,0 +1,16 @@
+ Test results for a multiple choice test can be stored in a text file as follows:
+ Line 1: The correct answers, one character per answer
+ Line 2: Name of the first student (length <= 30 chars)
+ Line 3: Answers for the student in line 2
+ The remaining lines: student names and answers on separate lines
+ For example:
+
+	BADED
+	Smithgall
+	BADDD
+	DeSalvo
+	CAEED
+	Darji
+	BADED
+
+Create a TestProcessor application that processes the test results file for any number of students. 

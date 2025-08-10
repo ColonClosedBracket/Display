@@ -1,0 +1,3 @@
+Create a DigitExtractor application that prompts the user for an integer and then displays the ones, 
+tens, and hundreds digit of the number. The DigitExtractor application should include a Num object 
+that can return the ones digit, tens digit, hundreds digit, and the whole number.

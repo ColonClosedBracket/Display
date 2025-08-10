@@ -1,0 +1,2 @@
+Create a DivAndMod application that prompts the user for two integers and then displays the result of 
+integer and modulus division in either order.

@@ -1,0 +1,3 @@
+Create a Project application to help analyze the time taken for a Java project. The application should 
+prompt you for the time spent designing, coding, debugging, and testing, and then displays a table 
+showing the percentage of time taken for each part. 

@@ -1,0 +1,9 @@
+Create a Grade application that prompts the user for the percentage earned on a test or other graded 
+work and then displays the corresponding letter grade. The application should use the grading scale 
+at your school or the following grading scale:
+
+90 – 100	 A
+80 – 89		 B
+70 – 79		 C
+60 – 69		 D
+below 60	 F

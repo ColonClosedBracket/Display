@@ -1,0 +1,3 @@
+Create a WordCount application that displays the number of words and the average word length in a 
+text file named source.txt. Consider a word to be any sequence of letters terminated by nonletters. For 
+example, forty-nine is two words.

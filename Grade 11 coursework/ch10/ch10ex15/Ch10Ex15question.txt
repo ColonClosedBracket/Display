@@ -1,0 +1,19 @@
+The game of Mankala is played on a board like that illustrated below:
+
+Players sit on opposite sides with the large bin to a player’s right designated her home bin. On a turn, 
+a player selects one of the six pits to remove the stones from and then “sows” the stones counterclock
+wise around the board, placing one stone in each pit including the player’s home bin (but excluding 
+the opponent’s home bin). If the last stone lands in the player’s home bin, the player gets another turn. 
+
+If the last stone lands in an empty pit on the player’s side of the board, the player takes all stones in 
+the corresponding pit on the opponent’s side and places them in the player’s home bin. When a player 
+cannot play, the game is over and all stones remaining in the opponent’s pits go to the opponent’s home 
+bin. The winner is the player with the most stones in the player’s home bin at the end of the game.
+
+Create a Mankala application. The application should use simple characters to illustrate the board, 
+and letters to identify the pits, similar to that shown below:
+
+  3  3  3  3  3  3
+ 0                  0
+  3  3  3  3  3  3
+  A  B  C  D  E  F

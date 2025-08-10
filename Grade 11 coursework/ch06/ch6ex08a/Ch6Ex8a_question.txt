@@ -1,0 +1,2 @@
+The GuessingGame application created in Chapter 5 Exercise 8 would be more fun if users could make 
+as many guesses as necessary to guess the secret number. Modify the algorithm to allow for as many guesses as needed.
